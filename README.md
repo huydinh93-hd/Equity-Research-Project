@@ -1,18 +1,6 @@
 # Equity Research
 
-This is where I keep my equity research projects. Each project has its own folder with a report, a one-page summary, and a short README. I add the Excel model when I share it.
-
-## Projects
-
-| Project | Rating | My value vs price | Date |
-|---|---|---|---|
-| [AMSC: Initiation of Coverage](AMSC-Initiation-of-Coverage) | Underweight | $16.88 vs $30.01 (44% below) | October 2026 |
-
-## How each project is organized
-
-- **README.md** gives the rating, the main findings and how I valued the company.
-- **Report (PDF)** has the full analysis.
-- **Tear sheet (PDF)** puts the whole view on one page.
+This is where I keep my equity research projects. Each project has its own folder with a file or report, and a short README. I add the Excel model when I share it.
 
 ## Disclosure
 
