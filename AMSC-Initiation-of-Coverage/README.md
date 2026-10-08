@@ -11,8 +11,8 @@ I wrote this report as an independent research project. It covers American Super
 
 ## Read it
 
-- [Initiation of Coverage report (44 slides, PDF)](AMSC%20Initiation%20of%20Coverage.pdf)
 - [One-page tear sheet (PDF)](AMSC%20Tear%20Sheet.pdf)
+- [Initiation of Coverage report (44 slides, PDF)](AMSC%20Initiation%20of%20Coverage.pdf)
 
 Start with the tear sheet. It has the whole view on one page. The report has the detail.
 
