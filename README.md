@@ -1,6 +1,6 @@
 # Equity Research
 
-This is where I keep my equity research projects. Each project has its own folder with a file or report, and a short README. I add the Excel model when I share it.
+This is where I keep my equity research projects. Each project has its own folder with a file or report, and a short README. 
 
 ## Disclosure
 
