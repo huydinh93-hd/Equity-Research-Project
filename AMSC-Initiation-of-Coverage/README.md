@@ -9,7 +9,7 @@ I wrote this report as an independent research project. It covers American Super
 | **My blended value** | $16.88 (44% below the price) |
 | **My entry view** | About $9 to $11 |
 
-![AMSC one-page tear sheet](tear-sheet-preview.png)
+
 
 ## Read it
 
