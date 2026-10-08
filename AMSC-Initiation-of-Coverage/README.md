@@ -9,6 +9,13 @@ I wrote this report as an independent research project. It covers American Super
 | **My blended value** | $16.88 (44% below the price) |
 | **My entry view** | About $9 to $11 |
 
+## Read it
+
+- [Initiation of Coverage report (44 slides, PDF)](AMSC%20Initiation%20of%20Coverage.pdf)
+- [One-page tear sheet (PDF)](AMSC%20Tear%20Sheet.pdf)
+
+Start with the tear sheet. It has the whole view on one page. The report has the detail.
+
 ## What I found
 
 1. **Growth came from an acquisition.** Revenue grew 30% in the June 2026 quarter, but only 3% without Comtrafo.
