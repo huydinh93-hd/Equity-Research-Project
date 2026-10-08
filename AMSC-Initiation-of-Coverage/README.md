@@ -1,4 +1,4 @@
- AMSC: Initiation of Coverage
+# AMSC: Initiation of Coverage
 
 I wrote this report as an independent research project. It covers American Superconductor (Nasdaq: AMSC). It gives a rating, a value per share, and the reasons behind both.
 
